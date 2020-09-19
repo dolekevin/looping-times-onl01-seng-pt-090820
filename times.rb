@@ -1,7 +1,7 @@
 
 
 7.times do
-  puts "Wingardium Leviosa"
+  return "Wingardium Leviosa"
 end
 
 
